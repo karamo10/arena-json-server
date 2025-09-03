@@ -6,6 +6,7 @@
         "start": "node server.js"
     },
     "dependencies": {
+        "cloudinary": "^2.7.0",
         "json-server": "^0.17.3"
     }
 }
